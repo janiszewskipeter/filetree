@@ -1,5 +1,5 @@
 import os
-
+"""Fully fixed issue - working program"""
 
 def print_decorline(chars, length, keep_whole=True):
     decorline = ""
